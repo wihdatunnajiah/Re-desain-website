@@ -1,0 +1,1 @@
+Di bagian style saya ubah tulisan dari web tersebut dan ubah font nya. Dan juga sya menambahkan link di bagian body agar yang akses web tersebut dapat denga mudah mrngunjungi chanel youtube yang ada pada video. Dan fi bagian footer juga saya ubah font nya
