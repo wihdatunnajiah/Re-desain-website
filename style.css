@@ -1,0 +1,88 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f9;
+    color: #315be6;
+    margin: 0;
+    padding: 0;
+}
+
+.hero {
+    background: linear-gradient(135deg, #6e8efb, #a777e3);
+    color: #fff;
+}
+
+.hero-body img {
+    max-width: 200px;
+}
+
+.button.is-large {
+    margin: 10px;
+}
+
+.github-button {
+    margin: 5px;
+}
+
+.my-2 {
+    margin: 20px 0;
+}
+
+.animate__animated.animate__tada.animate__delay-1s {
+    animation-delay: 1s;
+}
+
+.animate__animated.animate__wobble.animate__delay-2s {
+    animation-delay: 2s;
+}
+
+footer {
+    background-color: #315be6;
+    color: #fff;
+    padding: 20px 0;
+}
+
+footer a {
+    color: #fff;
+    text-decoration: none;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
+
+.iconify {
+    font-size: 50px;
+    margin: 0 10px;
+}
+
+a {
+    color: #315be6;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.section {
+    padding: 20px 0;
+}
+
+.columns.has-text-centered {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.column {
+    padding: 10px;
+}
+
+.column img {
+    max-width: 100%;
+}
+
+.column.is-8 a {
+    display: inline-block;
+    margin: 10px;
+}
